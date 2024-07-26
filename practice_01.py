@@ -4,6 +4,7 @@ print('hello world')
 # git remote add origin https://github.com/moses-song/COPD.git
 # git branch -M main
 # git push -u origin main
+# 자동으로 pull request되는건가?
 
 '''기존 연결되어 있는 repository에서 다시 새로운 러퍼지토리에 소스코드를 올리려고 하니 
 "error: remote origin already exists."
