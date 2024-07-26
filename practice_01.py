@@ -25,3 +25,4 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 -> git pull origin main 실행한 뒤 다시 push하면 됨.'''
 
 # 지금 다시 push할텐데 자동으로 pulling되는 건 아니겠지?
+# git init을 해서 자동으로 되는건가? 2번째 시도는 자동으로 되나?
