@@ -1,4 +1,6 @@
 print('hello world')
+# git config --global user.email moses@rexsw.com
+# git config --global user.name moses
 # git remote add origin https://github.com/moses-song/COPD.git
 # git branch -M main
 # git push -u origin main
