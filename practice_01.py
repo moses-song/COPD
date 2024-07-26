@@ -23,3 +23,5 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 -> 원격저장소(github)에 내 로컬(내컴퓨터)에 없는 파일이 있을 때 파일을 push하면 발생하는 오류.
 -> 원격저장소에서 내 로컬에 저장하지 않은 파일을 pull한 후 원격저장소에 다시 push를 해야함.
 -> git pull origin main 실행한 뒤 다시 push하면 됨.'''
+
+# 지금 다시 push할텐데 자동으로 pulling되는 건 아니겠지?
